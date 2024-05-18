@@ -7,3 +7,6 @@ Code works as, (index.js / index.html) and (index2.js / index2.html) respectivel
 Several calls made to API and was able to fetch over 100 holidays
 
 # FetchHolidaysAPI
+
+Repo- https://github.com/ljlagat/FetchHolidaysAPI.git
+GitHub Pages-Live link - https://ljlagat.github.io/FetchHolidaysAPI/
